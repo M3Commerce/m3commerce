@@ -1,0 +1,25 @@
+{
+    "name": "m3commerce/core",
+    "description": "minimal, solid, scalable and easily customizable framework for building bespoke shopping experiences",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "M3Commerce\\Core\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "adrian7",
+            "email": "adrian.silimon@yahoo.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "symfony/config": "^6.1",
+        "symfony/dependency-injection": "^6.1",
+        "symfony/yaml": "^6.1",
+        "symfony/expression-language": "^6.1",
+        "symfony/uid": "^6.1"
+    }
+}
