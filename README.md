@@ -1,4 +1,8 @@
-# M3Commerce/Framework
+# M3Commerce/Core
+
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=M3Commerce_m3commerce&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=M3Commerce_m3commerce)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=M3Commerce_m3commerce&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=M3Commerce_m3commerce)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=M3Commerce_m3commerce&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=M3Commerce_m3commerce)
 
 ## What?
 
