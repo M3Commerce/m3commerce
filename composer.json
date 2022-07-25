@@ -20,6 +20,8 @@
         "symfony/dependency-injection": "^6.1",
         "symfony/yaml": "^6.1",
         "symfony/expression-language": "^6.1",
-        "symfony/uid": "^6.1"
+        "symfony/uid": "^6.1",
+        "doctrine/annotations": "^1.13",
+        "doctrine/orm": "^2.12"
     }
 }
