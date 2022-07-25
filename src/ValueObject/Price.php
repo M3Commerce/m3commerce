@@ -3,7 +3,9 @@
 namespace M3commerce\Core\ValueObject;
 
 
-class Price implements \JsonSerializable
+use JsonSerializable;
+
+class Price implements JsonSerializable
 {
     private function __construct(
         private readonly float $value,
